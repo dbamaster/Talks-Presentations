@@ -25,7 +25,7 @@
     "angular-datatables": "^8.0.0",
     "bootstrap": "^4.3.1",
     "bootswatch": "^4.3.1",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.10.22",
     "datatables.net-bs4": "^1.10.19",
     "datatables.net-dt": "^1.10.19",
     "dotenv": "^8.1.0",
